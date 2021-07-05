@@ -105,5 +105,3 @@ Most number of people from Pacific and East North Central region were very favou
 
 ## 3.	REFERENCES
 1.	Boschetti, A & Massaron, L 2015, Python Data Science Essentials, Packt Publishing Ltd., viewed 17  April, <shttps://books.google.com.au/books?id=Y4rwCAAAQBAJ&printsec=frontcover#v=onepage&q&f=false>.
-
-
